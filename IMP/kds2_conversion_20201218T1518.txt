@@ -1,0 +1,8 @@
+20201218T1518 KDS Upgrade Assistant Conversion Report
+Project name: IMP
+Project location: C:/Users/black/ffs.kds/IMP
+Conversion status: success.
+Toolchain settings, for configuration Debug: already set. Not changed.
+Newlib-nano, for configuration Debug: no instances of -nanolibc found.
+Semihosting support nosys (-specs=nosys.specs), for configuration Debug: successfully added.
+A backup of the original .cproject file has been created in .cproject_backup
